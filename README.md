@@ -1,4 +1,6 @@
 # Personal Portfolio Website using React + Tailwind CSS
 
+🚀 **Live Demo:** [Click Here](https://tigrangev89.github.io/my-portfolio/)
 
-![personal portfolio website](https://github.com/user-attachments/assets/demo.png)
+![Portfolio Preview](Screenshot.png)
+
